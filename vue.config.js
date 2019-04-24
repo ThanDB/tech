@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: 'newblog'
+    publicPath: 'tech'
 }
